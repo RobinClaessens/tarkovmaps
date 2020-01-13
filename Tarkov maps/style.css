@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #FAFAFA;
+	font-family: arial;
+}
+
+a {
+	color: black;
+	display: table;
+	padding: 0.8% 0.8%;
+	background: #5C3315;
+	color: white;
+
+}
+
+.center {
+	max-width: 100%;
+	max-height: 100vh;
+	margin: 2.5% auto 0px auto;
+}
+
+.center:hover{
+	border: 2.5px solid white;
+}
+
+.back:hover{
+	border: 2.5px solid white;
+}
+
+h1 {
+ 	text-align: center;
+	color: #5C3315;
+	padding: 15px 15px 0px 15px;
+	font-weight: 700;
+	font-size: 4rem;
+	text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.body1 {
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover;
+}
+
+.center2 {
+	max-width: 100%;
+	max-height: 100vh;
+	margin: 5% auto 5% auto;
+	font-size: 50;
+}
+
+.bodyC {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Customs.png);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bodyF {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Factory.jpg);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bodyS {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Shoreline.jpg);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bodyR {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Reserve.png);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bodyI {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Interchange.jpg);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bodyW {
+	background: black;
+	background-attachment: fixed;
+	margin: 0;
+	background-image: url(Woods.jpg);
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.back{
+	margin: 1% 0% 0% 95%;
+	max-width: 100%;
+	max-height: 100vh;
+	font-size: 50;
+}
